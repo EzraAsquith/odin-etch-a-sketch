@@ -1,0 +1,25 @@
+
+
+.container {
+}
+
+.row {
+    --size: 50px;
+    min-height: var(--size);
+    min-width: var(--size);
+    max-width: 20px;
+    max-height: 20px;
+    display: flex;
+    outline: auto;
+}
+
+.collumn {
+    --size: 50px;
+    min-height: var(--size);
+    min-width: var(--size);
+    max-width: 20px;
+    max-height: 20px;
+    display: flex;
+    flex-direction: column;
+    outline: auto;
+}
