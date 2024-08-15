@@ -13,12 +13,14 @@
 }
 
 .row {
+    background-color: white;
     display: flex;
     flex: 1;
     outline: solid black 1px;
-}
+    }
 
 .collumn {
+    background-color: white;
     display: flex;
     flex: 1;
     outline: solid black 1px;
